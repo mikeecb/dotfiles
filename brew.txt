@@ -1,0 +1,13 @@
+bat
+dust
+exa
+fd
+fzf
+gotags
+httpie
+hyperfine
+neovim
+procs
+ripgrep
+sd
+tmux
